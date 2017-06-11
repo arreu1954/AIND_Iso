@@ -213,7 +213,7 @@ class MinimaxPlayer(IsolationPlayer):
             raise SearchTimeout()
 
         # TODO: finish this function!
-        return 1
+        return 2
 
 
 class AlphaBetaPlayer(IsolationPlayer):
